@@ -176,7 +176,7 @@
               </div>
             </div>
 
-            <div class="relative pt-1">
+            <!-- <div class="relative pt-1">
               <div class="flex items-center justify-between mb-2">
                 <div>
                   <span class="inline-block px-2 py-1 text-xs font-semibold text-green-600 uppercase bg-green-200 rounded-full">
@@ -192,7 +192,7 @@
               <div class="flex h-2 mb-4 overflow-hidden text-xs bg-green-200 rounded">
                 <div style="width:65%" class="flex flex-col justify-center text-center text-white bg-green-500 shadow-none whitespace-nowrap"></div>
               </div>
-            </div>
+            </div> -->
 
           </div>
         </div>
@@ -402,8 +402,8 @@
   export default {
     data() {
       return { 
-        pictureHoverEffect: "https://pbs.twimg.com/profile_images/1179777232132329474/Al5v4tih_400x400.jpg",
-        pictureStatic: "https://media-exp1.licdn.com/dms/image/C4E03AQFbTzcJ6iEPMA/profile-displayphoto-shrink_200_200/0/1597954295899?e=1635379200&v=beta&t=3p8hS9l8gCZhd4rFDFVj-XAsYHp2XsD7E7CP5KvqSxY",
+        pictureHoverEffect: "https://pbs.twimg.com/profile_images/1445269368980574221/pjRaoz6b_400x400.jpg",
+        pictureStatic: "https://media-exp1.licdn.com/dms/image/C4E03AQFbTzcJ6iEPMA/profile-displayphoto-shrink_400_400/0/1597954295899?e=1642032000&v=beta&t=GQvK2IgWAaj5HwauQ9-mI7W3O0y4OGwR8bNmcQ9cAns",
         hover: false
       }
     },
