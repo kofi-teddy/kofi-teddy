@@ -102,11 +102,7 @@
             <div class="text-white">
               <p class="p-0 m-0 text-sm"> 
                 I'm a software engineer based in Ghana. Very passionate about building robust data driven application. 
-                I mostly do fullstack development but I really love backend development with almost a decade experience.
-              </p>
-              <p class="p-0 m-0 mt-2 text-sm"> 
-                I'm Cofounder of Skycrew Technologies, a software development consulting company based in Ghana. 
-                At Skycrew Technologies I enjoy mentoring interns, sharing my experience with them.  
+                I really love and enjoy backend development.
               </p>
             </div>
 
@@ -227,9 +223,6 @@
           </div>
         </div>
       </div>
-      <!-- <div class="mt-5">
-        <h3 class="mt-2 font-bold leading-8 tracking-tight text-gray-300 text-md sm:text-2xl">Python, Django, FastAPI, Vuejs, AWS, GCP, Tailwindcss, Bootstrap, Wagtail</h3>
-      </div> -->
     </div>
 
     <div class="pt-8 mt-20">
@@ -258,9 +251,6 @@
           </div>
         </div>
       </div>
-      <!-- <div class="mt-5">
-        <h3 class="mt-2 font-bold leading-8 tracking-tight text-gray-300 text-md sm:text-2xl">Python, Django, FastAPI, Vuejs, AWS, GCP, Tailwindcss, Bootstrap, Wagtail</h3>
-      </div> -->
     </div>
 
     <div class="pt-8 mt-20">
@@ -289,9 +279,6 @@
           </div>
         </div>
       </div>
-      <!-- <div class="mt-5">
-        <h3 class="mt-2 font-bold leading-8 tracking-tight text-gray-300 text-md sm:text-2xl">Python, Django, FastAPI, Vuejs, AWS, GCP, Tailwindcss, Bootstrap, Wagtail</h3>
-      </div> -->
     </div>
 
     <div class="pt-8 mt-20">
@@ -315,9 +302,6 @@
           </div>
         </div>
       </div>
-      <!-- <div class="mt-5">
-        <h3 class="mt-2 font-bold leading-8 tracking-tight text-gray-300 text-md sm:text-2xl">Python, Django, FastAPI, Vuejs, AWS, GCP, Tailwindcss, Bootstrap, Wagtail</h3>
-      </div> -->
     </div>
 
     <div class="pt-8 mt-20">
@@ -371,28 +355,6 @@
     </div>
 
   </div>
-
-  <!-- <footer class="px-4 py-12 text-sm leading-5 border-t border-gray-200 bg-gray-50 md:py-14 sm:px-6 lg:px-16">
-    <div class="mx-auto space-y-6 text-center max-w-10xl md:space-y-0 md:text-left md:flex">
-      <div class="flex flex-col items-center space-y-6 md:space-y-0 md:space-x-10 md:flex-row">
-        <div class="flex items-center space-x-2">
-          <div class="relative overflow-hidden rounded-full">
-            <img src="./assets/img/my-profile-pics.jpeg" alt="" class="bg-gray-200" style="width:30px;height:30px" loading="lazy">
-            <div class="absolute inset-0 border border-black rounded-full border-opacity-10"></div>
-          </div>
-          <p>Developed by 
-            <a href="#!" class="font-medium text-gray-900 transition-colors duration-150 hover:text-gray-500">@kofi_teddy_</a>
-          </p>
-        </div>
-      </div>
-      <a href="#!" class="inline-flex items-center space-x-2 text-[#1da1f2] ml-auto font-medium mr-2">
-        <svg width="20" height="20" fill="currentColor"><path d="M6.29 18.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0020 3.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.073 4.073 0 01.8 7.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 010 16.407a11.616 11.616 0 006.29 1.84"></path></svg>
-      </a>
-      <a href="#!" class="inline-flex items-center space-x-2 text-[#1da1f2] font-medium mr-2">
-        <svg width="24" height="24" viewBox="0 0 16 16" fill="currentColor"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-      </a>
-    </div>
-  </footer> -->
 
 </template>
 
