@@ -1,60 +1,5 @@
 <template>
   <div class="container bg-main">
-    <!-- <div class="grid grid-cols-3 gap-1 pt-6">
-      <div class="text-center">
-        <img 
-          :src="pictureHover"
-          @mouseover="hover = true" 
-          @mouseleave="hover = false"  
-          class="border-4 border-green-400 shadow-xl w-44 h-44 rounded-3xl" 
-          alt="">
-      </div>
-
-      <div>
-        <h2 class="mt-2 font-serif text-4xl font-extrabold leading-8 tracking-tight text-gray-100 sm:text-3xl kt-font-title">Hi, I'm</h2>
-        <h1 class="mt-3 text-4xl font-extrabold leading-8 tracking-tight text-gray-100 sm:text-4xl kt-font-title">
-          <span class="font-serif text-green-600 kt-font-title">
-            Teddy M. Agudogo
-          </span>  
-        </h1>
-        <h2 class="mt-2 font-bold leading-8 tracking-tight text-gray-300 text-md sm:text-2xl">Software Engineer</h2>
-        <div class="py-1 mt-16">
-          <a href="#!" class="px-1 py-2.5 bg-green-500 rounded-xl text-xs text-white btn shadow-xl">
-            <span class="px-3">
-              Download CV 
-            </span>
-            <span class="ml-2 p-1.5 bg-green-300 rounded-lg">&#8594;</span>
-          </a>
-        </div>
-      </div>
-      
-      <div>
-        <div class="mb-4">
-          <span class="text-sm text-green-600">My profile</span>
-        </div>
-        <div>
-          <span class="mt-2 text-2xl font-extrabold tracking-tight text-gray-300">
-            Based in Ghana <br> I'm a full stack developer
-          </span>
-        </div>
-        <div class="mt-6">
-          <span class="max-w-2xl mt-4 text-gray-300 text-md lg:mx-auto">
-            A hardworking individual and a good team player with the ability to build shared vision with demonstrated ability in fast-paced learning. Possessing critical thinking skills while being goal-oriented and a good communicator fuels my good adaptability skills.
-          </span>
-        </div>
-        <div class="mt-4">
-          <a class="text-sm text-green-600" href="#!">
-            +233 0 55 923 094 4
-          </a>
-        </div>
-        <div class="mt-1">
-          <a class="text-sm text-green-600" href="#!">
-            agudogot@gmail.com
-          </a>
-        </div>
-      </div>
-    </div> -->
-
     <div class="pt-8 mt-20">
       <div class="mt-5">
         <div class="flex items-center justify-center flex-auto">
@@ -76,7 +21,7 @@
               </div>
               <div class="mt-8">
                 <a 
-                  href="https://res.cloudinary.com/kofi-teddy/image/upload/v1629886095/pdf/teddys-cv-2021_3_vkvyti.pdf" 
+                  href="https://res.cloudinary.com/kofi-teddy/image/upload/v1639263328/pdf/teddys-cv-2021_2_abseyt.pdf" 
                   class="px-1 py-2.5 bg-green-500 rounded-xl text-xs text-white btn shadow-xl"
                   target="_blank">
                   <span class="px-3">
@@ -171,31 +116,9 @@
                 <div style="width:95%" class="flex flex-col justify-center text-center text-white bg-red-500 shadow-none whitespace-nowrap"></div>
               </div>
             </div>
-
-            <!-- <div class="relative pt-1">
-              <div class="flex items-center justify-between mb-2">
-                <div>
-                  <span class="inline-block px-2 py-1 text-xs font-semibold text-green-600 uppercase bg-green-200 rounded-full">
-                    Vue
-                  </span>
-                </div>
-                <div class="text-right">
-                  <span class="inline-block text-xs font-semibold text-green-600">
-                    75%
-                  </span>
-                </div>
-              </div>
-              <div class="flex h-2 mb-4 overflow-hidden text-xs bg-green-200 rounded">
-                <div style="width:65%" class="flex flex-col justify-center text-center text-white bg-green-500 shadow-none whitespace-nowrap"></div>
-              </div>
-            </div> -->
-
           </div>
         </div>
       </div>
-      <!-- <div class="mt-5">
-        <h3 class="mt-2 font-bold leading-8 tracking-tight text-gray-300 text-md sm:text-2xl">Python, Django, FastAPI, Vuejs, AWS, GCP, Tailwindcss, Bootstrap, Wagtail</h3>
-      </div> -->
     </div>
 
     <div class="pt-8 mt-20 text-center">
