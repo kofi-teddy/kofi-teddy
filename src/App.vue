@@ -140,7 +140,7 @@
             </div>
 
             <div class="text-white">
-              <span>Data modeling - 88%</span>
+              <span>Data modeling - 90%</span>
             </div>
 
           </div>
@@ -158,17 +158,17 @@
 
             <div class="text-white">
               <span> - Skycrew Technologies</span>
-              <p class="p-0 m-0 text-xs"><b>CTO & Software Engineer</b>, 2019 - Present</p>
+              <p class="p-0 m-0 text-xs"><b>Software Engineer</b>, 2019 - Present</p>
             </div>
 
             <div class="mt-4 text-white">
               <span> - Thai Union Group,PCL</span>
-              <p class="p-0 m-0 text-xs"><b>IT & Software Maintenance</b>, 2016 - 2019</p>
+              <p class="p-0 m-0 text-xs"><b>Software Engineer</b>, 2016 - 2019</p>
             </div>
 
             <div class="mt-4 text-white">
               <span> - Ghana Port And Harbour Authority</span>
-              <p class="p-0 m-0 text-xs"><b>MIS</b>, 2016 - 2017</p>
+              <p class="p-0 m-0 text-xs"><b>Software Engineer</b>, 2016 - 2017</p>
             </div>
 
           </div>
