@@ -49,8 +49,8 @@
                 I really love and enjoy backend development.
               </p>
               <p class="p-0 m-0 mt-2 text-sm"> 
-                I enjoy playing basketball 🏀 leisurely and follow the NBA strictly.
-                Favorites team Brooklyn Nets 
+                I enjoy playing basketball 🏀 leisurely and I follow the NBA strictly.
+                Favorites team Brooklyn Nets. 
               </p>
             </div>
 
