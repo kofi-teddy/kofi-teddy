@@ -265,7 +265,7 @@
               <a href="mailto:agudogot@gmail.com" target="_blank">agudogot@gmail.com</a>
             </div>
             <div class="mt-1 text-gray-100 text-xm">
-              <a href="tel:+2330208556743" target="_blank">+233 0 20 855 674 3</a>
+              <a href="tel:+2330208556743" target="_blank">+233 20 855 6743</a>
             </div>
             <div class="mt-1 text-xs text-gray-100">
               <span class="mx-1"><a href="https://www.linkedin.com/in/teddy-agud/" target="_blank">Linkedin</a></span>
