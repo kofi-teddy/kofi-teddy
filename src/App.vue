@@ -49,6 +49,10 @@
                 I'm a software engineer based in Ghana. Very passionate about building robust data driven application. 
                 I really love and enjoy backend development.
               </p>
+              <p class="p-0 m-0 text-sm"> 
+                I enjoy playing basketball 🏀 and follow NBA strictly. <br>
+                Favorites team Brooklyn Nets 
+              </p>
             </div>
 
           </div>
