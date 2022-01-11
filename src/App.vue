@@ -4,7 +4,7 @@
       <div>
         <div>
           <div class="flex items-center justify-center flex-auto">
-            <div class="w-full max-w-sm p-10 bg-green-600 rounded-3xl rounded-t-none">
+            <div class="w-full max-w-sm p-10 bg-green-900 rounded-3xl rounded-t-none">
               <div class="mt-1 text-sm text-gray-50 text-center">
                 <span class="mx-1"><router-link to="/">Home</router-link></span>
                 <span class="mx-1"><router-link to="/blog">Blog</router-link></span>
