@@ -1,5 +1,5 @@
 <template>
-  <div class="container bg-main">
+  <div class="mt-0 bg-main">
     <div class="pt-8 mt-20">
       <div class="mt-5">
         <div class="flex items-center justify-center flex-auto">
@@ -313,6 +313,7 @@
   }
   body {
     font-family: 'Inter';
+    background: #1f2424;
   }
 
   .btn {
