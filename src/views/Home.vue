@@ -259,7 +259,7 @@ export default {
   data() {
       return { 
         pictureHoverEffect: "https://pbs.twimg.com/profile_images/1445269368980574221/pjRaoz6b_400x400.jpg",
-        pictureStatic: "https://media-exp1.licdn.com/dms/image/C4E03AQFbTzcJ6iEPMA/profile-displayphoto-shrink_400_400/0/1597954295899?e=1642032000&v=beta&t=GQvK2IgWAaj5HwauQ9-mI7W3O0y4OGwR8bNmcQ9cAns",
+        pictureStatic: "https://res.cloudinary.com/kofi-teddy/image/upload/v1642261917/profile/IMG_2861_ybqmxm.jpg",
         hover: false
       }
     },
