@@ -5,7 +5,7 @@ backend development.
 I enjoy playing basketball 🏀 leisurely and I follow the NBA 
 strictly. Favorites team Brooklyn Nets.
 
-My tech Stack are python, django, wagtail
+My tech Stack are Python, Django, Wagtail
 
 
 agudogot@gmail.com
