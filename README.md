@@ -1,20 +1,12 @@
-# frontend-v3
+I'm a software engineer based in Ghana. Very passionate about 
+building robust data driven application. I really love and enjoy 
+backend development. 
 
-## Project setup
-```
-npm install
-```
+I enjoy playing basketball 🏀 leisurely and I follow the NBA 
+strictly. Favorites team Brooklyn Nets.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+My tech Stack are python, django, wagtail
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# kofi-teddy
+agudogot@gmail.com
++233 20 855 6743
