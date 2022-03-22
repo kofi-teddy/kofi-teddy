@@ -1,4 +1,4 @@
-I'm a software engineer based in Ghana. Very passionate about 
+I'm a python software developer based in Ghana. Very passionate about 
 building robust data driven application. I really love and enjoy 
 backend development. 
 
